@@ -1,2 +1,2 @@
 # Spotify-Activity
-Visualization of my Spotify Activity
+# This is what I have found after Analyzing my Spotify Activity
