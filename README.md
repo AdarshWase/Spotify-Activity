@@ -7,7 +7,6 @@ Answer - Taylor Swift and Shakira
 
 ### Question 2 - Who are my favorites artists based on "number of hours I played their music"?
 Answer - Taylor Swift = 3.5 Hours and Shakira = 1 Hours
-         Taylor Swift - 191 Times and Shakira = 20 Times
 
 ![TopFavorite Artists](https://github.com/AdarshWase/Spotify-Activity/blob/main/Blob/fav%20artist%20hours%20and%20count.jpg)
 
