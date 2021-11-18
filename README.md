@@ -11,7 +11,7 @@ Answer - Taylor Swift = 3.5 Hours and Shakira = 1 Hours
 ![TopFavorite Artists](https://github.com/AdarshWase/Spotify-Activity/blob/main/Blob/fav%20artist%20hours%20and%20count.jpg)
 
 ### Question 3 - What are my top favorite Songs?
-Answer - Simple Song (WRONG), my favorite song is Long Live. Well data does not always tell the truth!
+Answer - --
 
 ![Tfav song](https://github.com/AdarshWase/Spotify-Activity/blob/main/Blob/favorite%20songs.jpg)
 
