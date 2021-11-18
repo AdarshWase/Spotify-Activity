@@ -16,9 +16,9 @@ Answer - Simple Song (WRONG), my favorite song is Long Live. Well data does not 
 ![Tfav song](https://github.com/AdarshWase/Spotify-Activity/blob/main/Blob/favorite%20songs.jpg)
 
 ### Question 4 - What are my favorite Taylor Swift Songs?
-Answer - Visualization says Willow and Betty are my favorite, but WRONG, my Favorite Taylor Swift songs are All Too Well, Long Live and Blank Space. The thing is, most of the people don't listen to their favorite songs, they save them for some beautiful occasion.
+Answer - But, where is 'Long Live' & 'Begin Again'?
 
-![ts song](https://github.com/AdarshWase/Spotify-Activity/blob/main/Blob/Sheet%201.png)
+![ts song](https://github.com/AdarshWase/Spotify-Activity/blob/main/Blob/fav.jpg)
 
 ### Question 5 - Who are my favorite artist of all time?
 Answer - The visualization is perfectly true.
